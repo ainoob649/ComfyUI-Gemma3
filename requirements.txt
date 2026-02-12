@@ -1,0 +1,4 @@
+transformers
+bitsandbytes
+huggingface_hub
+accelerate
